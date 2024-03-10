@@ -1,0 +1,11 @@
+.paddingTransition {
+  transition: padding 0.3s ease-in-out;
+}
+
+.headerAtTop {
+  padding: 1.25rem;
+}
+
+.headerNotAtTop {
+  padding: 0.3rem 1.2rem 0.3rem 1.2rem;
+}
